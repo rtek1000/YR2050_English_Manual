@@ -1,14 +1,16 @@
-# YR2050_English_Manual
-- Information translated via Google (No language option on the menu, firm. ver.: 1.1910)
+# YR2050 English Manual
 
 - Notes:
-- - This YR2050 Can't Measuring battery internal resistance (see YR1035).
+- - This YR2050 Can't Measuring battery internal resistance (see [YR1035](https://www.google.com/search?q=yr1035)).
 - - It is strictly prohibited to measure any live parts, such as AC/DC voltage input to the test interface, which may damage the instrument.
+- - No language option on the menu (firm. ver.: 1.1910)
+- - Information translated via [Google](https://translate.google.com/)
+
 ------
 
-![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050.png)
-
 ### YR2050 high precision original wireline current detecting milliohmmeter DC milliohm low Resistance micro resistance meter Tester
+
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050.png)
 
 #### Product description
 
@@ -96,6 +98,10 @@ Menu 9 (Display contrast):
 Menu 10 (Resistance rate):
 
 ![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-10.png)
+
+Connectors Label:
+
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Connector%20Label.png)
 
 Back Label:
 
