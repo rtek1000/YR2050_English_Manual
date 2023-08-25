@@ -1,4 +1,4 @@
-# YR2050_English_Manual
+# YR2050 English Manual
 - Information translated via Google (No language option on the menu, firm. ver.: 1.1910)
 
 - Notes:
