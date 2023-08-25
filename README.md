@@ -2,7 +2,7 @@
 - Information translated via Google (No language option on the menu, firm. ver.: 1.1910)
 
 - Notes:
-- - This YR2050 Can't Measuring battery internal resistance.
+- - This YR2050 Can't Measuring battery internal resistance (see YR1035).
 - - It is strictly prohibited to measure any live parts, such as AC/DC voltage input to the test interface, which may damage the instrument.
 ------
 
