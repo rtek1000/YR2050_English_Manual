@@ -3,6 +3,8 @@ Information translated via Google (No language option on the menu, firm. ver.: 1
 
 ------
 
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050.png)
+
 YR2050 high precision original wireline current detecting milliohmmeter DC milliohm low Resistance micro resistance meter Tester
 
 Product description
