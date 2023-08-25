@@ -10,7 +10,7 @@
 
 ### YR2050 high precision original wireline current detecting milliohmmeter DC milliohm low Resistance micro resistance meter Tester
 
-![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050.png)
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050_.png)
 
 #### Product description
 
