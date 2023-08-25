@@ -1,6 +1,9 @@
 # YR2050_English_Manual
-Information translated via Google (No language option on the menu, firm. ver.: 1.1910)
+- Information translated via Google (No language option on the menu, firm. ver.: 1.1910)
 
+- Notes:
+- - This YR2050 Can't Measuring battery internal resistance.
+- - It is strictly prohibited to measure any live parts, such as AC/DC voltage input to the test interface, which may damage the instrument.
 ------
 
 ![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050.png)
