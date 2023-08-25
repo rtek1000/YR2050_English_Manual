@@ -54,7 +54,7 @@ To ensure the accuracy and safety of the machine, please store and use it in a d
 Product description source: https://www.aliexpress.com/item/4000509872797.html
 
 ------
-Keys:
+Keys (Front label):
 
 ![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Keys.png)
 
@@ -65,3 +65,36 @@ Main menu:
 ![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Main-Menu-5-8.png)
 
 ![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Main-Menu-9-10.png)
+
+Menu 1 (Normal operating mode):
+
+![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-01.png)
+
+Menu 2 (Detecting operating mode):
+
+![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-02.png)
+
+Menu 3 (Display Backlight):
+
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Menu-03.png)
+
+Menu 4 (Energy saving):
+
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Menu-04.png)
+
+Menu 5 (Limits):
+
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Menu-05.png)
+
+Menu 9 (Display contrast):
+
+![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-09.png)
+
+Menu 10 (Resistence rate):
+
+![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-10.png)
+
+Back Label:
+
+![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Back-Label.png)
+
