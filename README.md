@@ -93,7 +93,7 @@ Menu 9 (Display contrast):
 
 ![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-09.png)
 
-Menu 10 (Resistence rate):
+Menu 10 (Resistance rate):
 
 ![img](https://github.com/rtek1000/YR2050_English_Manual/blob/main/Display%20-%20Menu%20-%20Label/Menu-10.png)
 
