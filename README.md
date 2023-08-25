@@ -1,5 +1,5 @@
 # YR2050 English Manual
-- Information translated via Google (No language option on the menu, firm. ver.: 1.1910)
+- Information translated via [Google](https://translate.google.com/) (No language option on the menu, firm. ver.: 1.1910)
 
 - Notes:
 - - This YR2050 Can't Measuring battery internal resistance (see [YR1035](https://www.google.com/search?q=yr1035)).
