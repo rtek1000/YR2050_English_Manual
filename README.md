@@ -54,8 +54,11 @@ To ensure the accuracy and safety of the machine, please store and use it in a d
 Product description source: https://www.aliexpress.com/item/4000509872797.html
 
 ------
+Keys:
 
 ![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Keys.png)
+
+Main menu:
 
 ![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/Display%20-%20Menu%20-%20Label/Main-Menu-1-4.png)
 
