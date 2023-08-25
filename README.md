@@ -5,15 +5,15 @@ Information translated via Google (No language option on the menu, firm. ver.: 1
 
 ![img](https://raw.githubusercontent.com/rtek1000/YR2050_English_Manual/main/YR2050.png)
 
-#### YR2050 high precision original wireline current detecting milliohmmeter DC milliohm low Resistance micro resistance meter Tester
+### YR2050 high precision original wireline current detecting milliohmmeter DC milliohm low Resistance micro resistance meter Tester
 
-Product description
+#### Product description
 
 The wire tester is designed for all kinds of power wires, wires, network wires and other wires to test their quality, such as whether they are square enough, how many meters they are and what kind of material they are made of.
 
 Notice : This YR2050 Can't Measuring battery internal resistance . 
 
-Application case:
+#### Application case:
 
 1. Cut a certain length, such as 1m. Measure the diameter to calculate the cross-sectional area, enter the instrument detection mode to input the corresponding parameters, measure the wire resistance to calculate the resistivity, and judge whether the wire material is pure copper through the resistivity.
 
@@ -45,7 +45,7 @@ It is strictly prohibited to measure any live parts, such as AC / DC voltage inp
 
 To ensure the accuracy and safety of the machine, please store and use it in a dry and non corrosive gas environment.
 
-Package include :
+#### Package include :
 
 1pcs Tester
 
